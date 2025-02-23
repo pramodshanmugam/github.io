@@ -1,12 +1,16 @@
-# Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+title: "Pramod Shanmugam Nagaraj"
+email: "pramod.shanmugam@gmail.com"
+description: > 
+  Experienced Java & Python Developer with 4+ years of experience designing and optimizing 
+  microservices, RESTful APIs, and event-driven architectures. Proficient in Spring Boot, Kafka, 
+  AWS, and DevOps practices.
 
-twitter_username:
-github_username:
+baseurl: ""
+url: "https://pramodshanmugam.github.io" # Updated with your GitHub username
+
+twitter_username: ""
+github_username: "pramodshanmugam" # Updated with your GitHub username
+linkedin_username: "pramod-shanmugam"
 
 # Build settings
 markdown: kramdown
